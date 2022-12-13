@@ -48,6 +48,7 @@ body {
     left: 25%;
     box-shadow: 4.75px 9px rgba(67, 67, 67, 0.600);
     text-shadow: 0.5px 0.75px;
+    }
     
 
 @media screen and (max-width:1024px) {
@@ -66,4 +67,5 @@ body {
         width: 90%;
         margin: 2%;
         height: fit-content;
+    }
     }
